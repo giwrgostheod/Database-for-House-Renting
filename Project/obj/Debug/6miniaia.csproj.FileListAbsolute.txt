@@ -1,0 +1,509 @@
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\bin\Debug\6miniaia.exe.config
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\bin\Debug\6miniaia.exe
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\bin\Debug\6miniaia.pdb
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Form1.resources
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\6miniaia.exe
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\obj\Debug\6miniaia.pdb
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\bin\Debug\Database.mdf
+c:\users\gddsd\documents\visual studio 2013\Projects\6miniaia\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\6miniaia\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\bin\Debug\Database.mdf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_C.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\bin\Debug\Database.mdf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\aaaaaaaaaaa\gamietai\6miniaia\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\bin\Debug\Database.mdf
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\Giannis\Documents\Visual Studio 2013\Projects\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\bin\Debug\Database.mdf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\vasi me full upd-del-ins, me 1 trigger kai views\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database.mdf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\GDDSD\Documents\Visual Studio 2013\Projects\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database.mdf
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\Giannis\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database.mdf
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\GDDSD\Dropbox\Mou VGIKE I PANAGIA!!!\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\bin\Debug\6miniaia.exe.config
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\6miniaia.exe
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\6miniaia.pdb
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\bin\Debug\Database.mdf
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\bin\Debug\Database_log.ldf
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\bin\Debug\6miniaia.exe
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\bin\Debug\6miniaia.pdb
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\6miniaia.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Adv.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_BO.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_C.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Con.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_CP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Emp.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_New.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_OP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Own.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_POw.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Prop.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_PrT.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Del_Vis.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Form1.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Adv.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_BO.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Cl.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.v.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_CP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Emp.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_New.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_OP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Own.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_POw.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Prop.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_PrT.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Ins_Vis.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Properties.Resources.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer1.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer10.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer2.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer3.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer4.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer5.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer6.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer7.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer8.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Quer9.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Adv.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_BO.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Cl.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Con.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_CP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Emp.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_New.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_OP.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Own.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_POw.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Prop.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_PrT.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.Upd_Vis.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.View1.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\_6miniaia.View2.resources
+C:\Users\Giannis\Dropbox\idaniko_spiti\6miniaia\obj\Debug\6miniaia.csproj.GenerateResource.Cache

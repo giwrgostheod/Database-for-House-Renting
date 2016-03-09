@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{178A400C-8491-49A7-A02A-6EC83C36C7ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_6miniaia</RootNamespace>
+    <AssemblyName>6miniaia</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Adv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Adv.Designer.cs">
+      <DependentUpon>Del_Adv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_BO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_BO.Designer.cs">
+      <DependentUpon>Del_BO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_C.Designer.cs">
+      <DependentUpon>Del_C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Con.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Con.Designer.cs">
+      <DependentUpon>Del_Con.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_CP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_CP.Designer.cs">
+      <DependentUpon>Del_CP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_New.Designer.cs">
+      <DependentUpon>Del_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_OP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_OP.Designer.cs">
+      <DependentUpon>Del_OP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Own.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Own.Designer.cs">
+      <DependentUpon>Del_Own.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_POw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_POw.Designer.cs">
+      <DependentUpon>Del_POw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Prop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Prop.Designer.cs">
+      <DependentUpon>Del_Prop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_PrT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_PrT.Designer.cs">
+      <DependentUpon>Del_PrT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Vis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Vis.Designer.cs">
+      <DependentUpon>Del_Vis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Emp.Designer.cs">
+      <DependentUpon>Del_Emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Idaniko_Spiti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Idaniko_Spiti.Designer.cs">
+      <DependentUpon>Idaniko_Spiti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Adv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Adv.Designer.cs">
+      <DependentUpon>Ins_Adv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_BO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_BO.Designer.cs">
+      <DependentUpon>Ins_BO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Cl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Cl.Designer.cs">
+      <DependentUpon>Ins_Cl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Con.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Con.Designer.cs">
+      <DependentUpon>Ins_Con.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_CP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_CP.Designer.cs">
+      <DependentUpon>Ins_CP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Emp.Designer.cs">
+      <DependentUpon>Ins_Emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_New.Designer.cs">
+      <DependentUpon>Ins_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_OP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_OP.Designer.cs">
+      <DependentUpon>Ins_OP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Own.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Own.Designer.cs">
+      <DependentUpon>Ins_Own.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_POw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_POw.Designer.cs">
+      <DependentUpon>Ins_POw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Prop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Prop.Designer.cs">
+      <DependentUpon>Ins_Prop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_PrT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_PrT.Designer.cs">
+      <DependentUpon>Ins_PrT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ins_Vis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ins_Vis.Designer.cs">
+      <DependentUpon>Ins_Vis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quer1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer1.Designer.cs">
+      <DependentUpon>Quer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer10.Designer.cs">
+      <DependentUpon>Quer10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer2.Designer.cs">
+      <DependentUpon>Quer2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer3.Designer.cs">
+      <DependentUpon>Quer3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer4.Designer.cs">
+      <DependentUpon>Quer4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer5.Designer.cs">
+      <DependentUpon>Quer5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer6.Designer.cs">
+      <DependentUpon>Quer6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer7.Designer.cs">
+      <DependentUpon>Quer7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer8.Designer.cs">
+      <DependentUpon>Quer8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quer9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quer9.Designer.cs">
+      <DependentUpon>Quer9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Adv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Adv.Designer.cs">
+      <DependentUpon>Upd_Adv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_BO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_BO.Designer.cs">
+      <DependentUpon>Upd_BO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Cl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Cl.Designer.cs">
+      <DependentUpon>Upd_Cl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Con.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Con.Designer.cs">
+      <DependentUpon>Upd_Con.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_CP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_CP.Designer.cs">
+      <DependentUpon>Upd_CP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Emp.Designer.cs">
+      <DependentUpon>Upd_Emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_New.Designer.cs">
+      <DependentUpon>Upd_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_OP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_OP.Designer.cs">
+      <DependentUpon>Upd_OP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Own.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Own.Designer.cs">
+      <DependentUpon>Upd_Own.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_POw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_POw.Designer.cs">
+      <DependentUpon>Upd_POw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Prop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Prop.Designer.cs">
+      <DependentUpon>Upd_Prop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_PrT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_PrT.Designer.cs">
+      <DependentUpon>Upd_PrT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Vis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Vis.Designer.cs">
+      <DependentUpon>Upd_Vis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View1.Designer.cs">
+      <DependentUpon>View1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View2.Designer.cs">
+      <DependentUpon>View2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Del_Adv.resx">
+      <DependentUpon>Del_Adv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_BO.resx">
+      <DependentUpon>Del_BO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_C.resx">
+      <DependentUpon>Del_C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Con.resx">
+      <DependentUpon>Del_Con.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_CP.resx">
+      <DependentUpon>Del_CP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Emp.resx">
+      <DependentUpon>Del_Emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_New.resx">
+      <DependentUpon>Del_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_OP.resx">
+      <DependentUpon>Del_OP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Own.resx">
+      <DependentUpon>Del_Own.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_POw.resx">
+      <DependentUpon>Del_POw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Prop.resx">
+      <DependentUpon>Del_Prop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_PrT.resx">
+      <DependentUpon>Del_PrT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Vis.resx">
+      <DependentUpon>Del_Vis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idaniko_Spiti.resx">
+      <DependentUpon>Idaniko_Spiti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Adv.resx">
+      <DependentUpon>Ins_Adv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_BO.resx">
+      <DependentUpon>Ins_BO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Cl.resx">
+      <DependentUpon>Ins_Cl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Con.resx">
+      <DependentUpon>Ins_Con.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_CP.resx">
+      <DependentUpon>Ins_CP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Emp.resx">
+      <DependentUpon>Ins_Emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_New.resx">
+      <DependentUpon>Ins_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_OP.resx">
+      <DependentUpon>Ins_OP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Own.resx">
+      <DependentUpon>Ins_Own.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_POw.resx">
+      <DependentUpon>Ins_POw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Prop.resx">
+      <DependentUpon>Ins_Prop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_PrT.resx">
+      <DependentUpon>Ins_PrT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ins_Vis.resx">
+      <DependentUpon>Ins_Vis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Quer1.resx">
+      <DependentUpon>Quer1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer10.resx">
+      <DependentUpon>Quer10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer2.resx">
+      <DependentUpon>Quer2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer3.resx">
+      <DependentUpon>Quer3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer4.resx">
+      <DependentUpon>Quer4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer5.resx">
+      <DependentUpon>Quer5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer6.resx">
+      <DependentUpon>Quer6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer7.resx">
+      <DependentUpon>Quer7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer8.resx">
+      <DependentUpon>Quer8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quer9.resx">
+      <DependentUpon>Quer9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Adv.resx">
+      <DependentUpon>Upd_Adv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_BO.resx">
+      <DependentUpon>Upd_BO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Cl.resx">
+      <DependentUpon>Upd_Cl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Con.resx">
+      <DependentUpon>Upd_Con.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_CP.resx">
+      <DependentUpon>Upd_CP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Emp.resx">
+      <DependentUpon>Upd_Emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_New.resx">
+      <DependentUpon>Upd_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_OP.resx">
+      <DependentUpon>Upd_OP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Own.resx">
+      <DependentUpon>Upd_Own.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_POw.resx">
+      <DependentUpon>Upd_POw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Prop.resx">
+      <DependentUpon>Upd_Prop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_PrT.resx">
+      <DependentUpon>Upd_PrT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Vis.resx">
+      <DependentUpon>Upd_Vis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View1.resx">
+      <DependentUpon>View1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View2.resx">
+      <DependentUpon>View2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DatabaseDataSet.xsc">
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseDataSet.xss">
+      <DependentUpon>DatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-View-refresh_Gion_simple.svg.png" />
+    <None Include="Resources\sync.png" />
+    <None Include="Resources\898d92696814e5bf59132e52fe0d60d0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\αρχείο λήψης.jpg" />
+    <None Include="Resources\delete-2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
